@@ -1,2 +1,2 @@
-mass1 = int(input())
-print(mass1)
+m = int(input())
+print(m)
